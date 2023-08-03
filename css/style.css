@@ -127,7 +127,23 @@
   .nav-list.active {
     transform: translateX(0);
   }
-  
+
+H1{
+    font-size: 75px;
+}
+
+.trabs{
+    margin-rigth: 20px;
+    margin-left: 20px;
+}
+H3{
+    font-size: 40px;
+}
+H4{
+    margin-rigth: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
   @keyframes navLinkFade {
     from {
       opacity: 0;
