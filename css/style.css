@@ -97,7 +97,7 @@
   .text span{
     color: #fff;
   }
-  @media (max-width: 999px) {
+  @media (max-width: 800px) {
     body {
       overflow-x: hidden;
       overflow-y: hidden;
