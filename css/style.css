@@ -140,6 +140,9 @@ H4{
     margin-left: 20px;
     font-size: 20px;
 }
+.trabs{
+    text-decoration: none;
+}
   @keyframes navLinkFade {
     from {
       opacity: 0;
